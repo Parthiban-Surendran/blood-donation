@@ -27,8 +27,10 @@ Output Screenshots: #output-screenshots
 
 1. Clone the repository:
    
-```git clone https://github.com/your-username/blood-donation-prediction.git
-cd blood-donation-prediction```
+```
+git clone https://github.com/your-username/blood-donation-prediction.git
+cd blood-donation-prediction
+```
 
 2. Install the required dependencies:
    
