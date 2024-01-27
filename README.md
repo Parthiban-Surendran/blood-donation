@@ -4,6 +4,7 @@
 ## Overview
 
 This repository houses the code for a predictive system designed to estimate the probability of an individual making a blood donation. The system utilizes machine learning, specifically employing a Naive Bayes algorithm, and takes into account various features such as the individual's name, blood group, and city. The implementation includes a user-friendly interface that facilitates real-time predictions, enhancing accessibility and usability for potential users. It predicts the availability of blood samples from nearby hospitals and it keeps track of the future blood stocks of nearby hospitals that are insufficient at present.
+https://github.com/mohamedbadus/Project_Intel/assets/116250693/79288bdd-9e16-41a4-9858-a0f22e2bbd67)![download](https://github.com/mohamedbadus/Project_Intel/assets/116250693/c350e603-7a05-4922-9e54-f15678b42ea1)
 
 ## One API
 
